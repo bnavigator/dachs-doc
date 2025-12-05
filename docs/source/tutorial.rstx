@@ -3509,7 +3509,7 @@ whatever else.  Together with its companion standard SODA, it also lets
 clients do server-side manipulations like cutouts, scaling, format
 conversion, and the like.
 
-Datalink this is particularly attractive when you have large datasets and you
+Datalink is particularly attractive when you have large datasets and you
 don't want to push out the whole thing in one go by default.  Instead,
 clients can then query their users for what part of the dataset they
 would like to get – or to alert them of the fact that a large amount of
