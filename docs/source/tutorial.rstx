@@ -977,7 +977,7 @@ retrieve a URL with a renderer that is not in the service's ``allowed``
 list, DaCHS will respond with a 403 forbidden HTTP code (excepting
 certain “unchecked” renderers like ``info`` that typically expose
 service metadata).  Note that some of the more exotic renderers may pose
-special requirements on cores.  Don't be too disappointed of a given
+special requirements on cores.  Don't be too disappointed if a given
 renderer won't work with your core.
 
 The most common core for catalogue services (and the one you'll typically
